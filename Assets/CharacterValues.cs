@@ -16,11 +16,6 @@ public class CharacterValues : MonoBehaviour
         PrintCharacterValues(characterName, characterLevel);
     }
 
-    void Update()
-    {
-        
-    }
-
     /// <summary>
     /// Prints the characters name and level in the console.
     /// </summary>
